@@ -1,1 +1,2 @@
-# Python-Programming-Exercises-
+# Python-Programming-by John Zelle
+#Programming Exercises Chapter-Wise
